@@ -1,0 +1,22 @@
+.quote h3 {
+  height: 40px;
+  color: #31c4be;
+}
+.quote p {
+  width: 70%;
+  height: 80px;
+  padding-top: 3px;
+  text-align: center;
+  font-size: 18px;
+  font-family: "DM Sans";
+  letter-spacing: 0.5px;
+  color: #f2b237;
+  box-sizing: border-box;
+}
+.quote img {
+  background-color: #31c4be;
+  border-radius: 50%;
+  height: 25px;
+  width: 25px;
+  margin-top: 08px;
+}
